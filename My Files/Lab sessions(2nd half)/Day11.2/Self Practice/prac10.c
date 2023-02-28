@@ -1,0 +1,7 @@
+#include<stdio.h>
+int x = 10;
+int main()
+{
+    int x = 0;
+    printf("%d\n", x);
+}

@@ -1,0 +1,1 @@
+https://github.com/bluerhinos/phpMQTT/blob/master/examples/subscribe.php

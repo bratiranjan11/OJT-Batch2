@@ -1,0 +1,119 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/brati/Workspace/Workspace/My Files/Projects/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+Acc1	Logic Of ATM/Acc1.c	/^int Acc1() \/\/ Function declare$/;"	f	typeref:typename:int
+Acc2	Logic Of ATM/Acc2.c	/^int Acc2() \/\/ Function declare$/;"	f	typeref:typename:int
+Acc3	Logic Of ATM/Acc3.c	/^int Acc3() \/\/ Function declare$/;"	f	typeref:typename:int
+App	Logic Of ATM/Makefile	/^App:Atm.c $/;"	t
+App	SDI Cafe/Makefile	/^App:menu.c$/;"	t
+Barfi	SDI Cafe/dinner.c	/^int Roti = 4, Chicken_kassa = 110, Chicken_Afgani = 150, Egg_curry = 70, chilli_Chicken = 120, N/;"	v	typeref:typename:int
+Bio	Grade/Bio.c	/^int Bio(int x)$/;"	f	typeref:typename:int
+Chicken_Afgani	SDI Cafe/dinner.c	/^int Roti = 4, Chicken_kassa = 110, Chicken_Afgani = 150, Egg_curry = 70, chilli_Chicken = 120, N/;"	v	typeref:typename:int
+Chicken_FriedRice	SDI Cafe/lunch.c	/^int Veg_meal = 80, Nonveg_meal = 130, Chicken_FriedRice = 110, Egg_FriedRice = 90, Chilli_Chicke/;"	v	typeref:typename:int
+Chicken_kassa	SDI Cafe/dinner.c	/^int Roti = 4, Chicken_kassa = 110, Chicken_Afgani = 150, Egg_curry = 70, chilli_Chicken = 120, N/;"	v	typeref:typename:int
+Chilli_Chicken	SDI Cafe/lunch.c	/^int Veg_meal = 80, Nonveg_meal = 130, Chicken_FriedRice = 110, Egg_FriedRice = 90, Chilli_Chicke/;"	v	typeref:typename:int
+Chm	Grade/Chm.c	/^int Chm(int x)$/;"	f	typeref:typename:int
+Coffee	SDI Cafe/breakfast.c	/^int Tea = 6, Coffee = 10, idli_sambar = 25, upma_sabzi = 20, chakuli_sabzi= 20, paratha_sabzi = /;"	v	typeref:typename:int
+Dahi	SDI Cafe/lunch.c	/^int Veg_meal = 80, Nonveg_meal = 130, Chicken_FriedRice = 110, Egg_FriedRice = 90, Chilli_Chicke/;"	v	typeref:typename:int
+Egg_Bhurji	SDI Cafe/lunch.c	/^int Veg_meal = 80, Nonveg_meal = 130, Chicken_FriedRice = 110, Egg_FriedRice = 90, Chilli_Chicke/;"	v	typeref:typename:int
+Egg_FriedRice	SDI Cafe/lunch.c	/^int Veg_meal = 80, Nonveg_meal = 130, Chicken_FriedRice = 110, Egg_FriedRice = 90, Chilli_Chicke/;"	v	typeref:typename:int
+Egg_curry	SDI Cafe/dinner.c	/^int Roti = 4, Chicken_kassa = 110, Chicken_Afgani = 150, Egg_curry = 70, chilli_Chicken = 120, N/;"	v	typeref:typename:int
+Eng	Grade/Eng.c	/^int Eng(int x)$/;"	f	typeref:typename:int
+GRADE	Grade/Makefile	/^GRADE:Brati.c$/;"	t
+Grade	Student record struct/grade.c	/^struct Grade$/;"	s	file:
+Maths	Grade/Maths.c	/^int Maths(int x)$/;"	f	typeref:typename:int
+Naan	SDI Cafe/dinner.c	/^int Roti = 4, Chicken_kassa = 110, Chicken_Afgani = 150, Egg_curry = 70, chilli_Chicken = 120, N/;"	v	typeref:typename:int
+Nonveg_meal	SDI Cafe/lunch.c	/^int Veg_meal = 80, Nonveg_meal = 130, Chicken_FriedRice = 110, Egg_FriedRice = 90, Chilli_Chicke/;"	v	typeref:typename:int
+Phy	Grade/Phy.c	/^int Phy(int x)$/;"	f	typeref:typename:int
+Roti	SDI Cafe/dinner.c	/^int Roti = 4, Chicken_kassa = 110, Chicken_Afgani = 150, Egg_curry = 70, chilli_Chicken = 120, N/;"	v	typeref:typename:int
+SECURITY	Logic Of ATM/Acc1.c	/^#define SECURITY /;"	d	file:
+SECURITY	Logic Of ATM/Acc2.c	/^#define SECURITY /;"	d	file:
+SECURITY	Logic Of ATM/Acc3.c	/^#define SECURITY /;"	d	file:
+SGrade	Student record struct/grade.c	/^    struct Grade SGrade;$/;"	m	struct:Student	typeref:struct:Grade	file:
+SGrade	Student record struct/grade.c	/^} SGrade;$/;"	v	typeref:struct:Grade
+S_id	Student record struct/grade.c	/^    int S_id;$/;"	m	struct:Student	typeref:typename:int	file:
+S_name	Student record struct/grade.c	/^    char S_name[30];  $/;"	m	struct:Student	typeref:typename:char[30]	file:
+Student	Student record struct/grade.c	/^struct Student$/;"	s	file:
+Tea	SDI Cafe/breakfast.c	/^int Tea = 6, Coffee = 10, idli_sambar = 25, upma_sabzi = 20, chakuli_sabzi= 20, paratha_sabzi = /;"	v	typeref:typename:int
+Veg_meal	SDI Cafe/lunch.c	/^int Veg_meal = 80, Nonveg_meal = 130, Chicken_FriedRice = 110, Egg_FriedRice = 90, Chilli_Chicke/;"	v	typeref:typename:int
+a	SDI Cafe/breakfast.c	/^int a, b, total_bill, plates, bill1 = 0, bill2 = 0, bill3 = 0, bill4 = 0, bill5 = 0, bill6 = 0, /;"	v	typeref:typename:int
+all	Logic Of ATM/Makefile	/^all:App$/;"	t
+all	Makefile	/^all clean:$/;"	t
+b	SDI Cafe/breakfast.c	/^int a, b, total_bill, plates, bill1 = 0, bill2 = 0, bill3 = 0, bill4 = 0, bill5 = 0, bill6 = 0, /;"	v	typeref:typename:int
+b1	SDI Cafe/lunch.c	/^int d, e, total_bill, plates, b1 = 0, b2 = 0, b3 = 0, b4 = 0, b5 = 0, b6 = 0, b7 = 0;$/;"	v	typeref:typename:int
+b2	SDI Cafe/lunch.c	/^int d, e, total_bill, plates, b1 = 0, b2 = 0, b3 = 0, b4 = 0, b5 = 0, b6 = 0, b7 = 0;$/;"	v	typeref:typename:int
+b3	SDI Cafe/lunch.c	/^int d, e, total_bill, plates, b1 = 0, b2 = 0, b3 = 0, b4 = 0, b5 = 0, b6 = 0, b7 = 0;$/;"	v	typeref:typename:int
+b4	SDI Cafe/lunch.c	/^int d, e, total_bill, plates, b1 = 0, b2 = 0, b3 = 0, b4 = 0, b5 = 0, b6 = 0, b7 = 0;$/;"	v	typeref:typename:int
+b5	SDI Cafe/lunch.c	/^int d, e, total_bill, plates, b1 = 0, b2 = 0, b3 = 0, b4 = 0, b5 = 0, b6 = 0, b7 = 0;$/;"	v	typeref:typename:int
+b6	SDI Cafe/lunch.c	/^int d, e, total_bill, plates, b1 = 0, b2 = 0, b3 = 0, b4 = 0, b5 = 0, b6 = 0, b7 = 0;$/;"	v	typeref:typename:int
+b7	SDI Cafe/lunch.c	/^int d, e, total_bill, plates, b1 = 0, b2 = 0, b3 = 0, b4 = 0, b5 = 0, b6 = 0, b7 = 0;$/;"	v	typeref:typename:int
+b_1	SDI Cafe/snacks.c	/^int f, g, total_bill, plates, b_1 = 0, b_2 = 0, b_3 = 0, b_4 = 0, b_5 = 0, b_6 = 0, b_7 = 0;$/;"	v	typeref:typename:int
+b_2	SDI Cafe/snacks.c	/^int f, g, total_bill, plates, b_1 = 0, b_2 = 0, b_3 = 0, b_4 = 0, b_5 = 0, b_6 = 0, b_7 = 0;$/;"	v	typeref:typename:int
+b_3	SDI Cafe/snacks.c	/^int f, g, total_bill, plates, b_1 = 0, b_2 = 0, b_3 = 0, b_4 = 0, b_5 = 0, b_6 = 0, b_7 = 0;$/;"	v	typeref:typename:int
+b_4	SDI Cafe/snacks.c	/^int f, g, total_bill, plates, b_1 = 0, b_2 = 0, b_3 = 0, b_4 = 0, b_5 = 0, b_6 = 0, b_7 = 0;$/;"	v	typeref:typename:int
+b_5	SDI Cafe/snacks.c	/^int f, g, total_bill, plates, b_1 = 0, b_2 = 0, b_3 = 0, b_4 = 0, b_5 = 0, b_6 = 0, b_7 = 0;$/;"	v	typeref:typename:int
+b_6	SDI Cafe/snacks.c	/^int f, g, total_bill, plates, b_1 = 0, b_2 = 0, b_3 = 0, b_4 = 0, b_5 = 0, b_6 = 0, b_7 = 0;$/;"	v	typeref:typename:int
+b_7	SDI Cafe/snacks.c	/^int f, g, total_bill, plates, b_1 = 0, b_2 = 0, b_3 = 0, b_4 = 0, b_5 = 0, b_6 = 0, b_7 = 0;$/;"	v	typeref:typename:int
+banana_standardsize	SDI Cafe/breakfast.c	/^int Tea = 6, Coffee = 10, idli_sambar = 25, upma_sabzi = 20, chakuli_sabzi= 20, paratha_sabzi = /;"	v	typeref:typename:int
+bd_1	SDI Cafe/dinner.c	/^int h, i, total_bill, plates, bd_1 = 0, bd_2 = 0, bd_3 = 0, bd_4 = 0, bd_5 = 0, bd_6 = 0, bd_7 =/;"	v	typeref:typename:int
+bd_2	SDI Cafe/dinner.c	/^int h, i, total_bill, plates, bd_1 = 0, bd_2 = 0, bd_3 = 0, bd_4 = 0, bd_5 = 0, bd_6 = 0, bd_7 =/;"	v	typeref:typename:int
+bd_3	SDI Cafe/dinner.c	/^int h, i, total_bill, plates, bd_1 = 0, bd_2 = 0, bd_3 = 0, bd_4 = 0, bd_5 = 0, bd_6 = 0, bd_7 =/;"	v	typeref:typename:int
+bd_4	SDI Cafe/dinner.c	/^int h, i, total_bill, plates, bd_1 = 0, bd_2 = 0, bd_3 = 0, bd_4 = 0, bd_5 = 0, bd_6 = 0, bd_7 =/;"	v	typeref:typename:int
+bd_5	SDI Cafe/dinner.c	/^int h, i, total_bill, plates, bd_1 = 0, bd_2 = 0, bd_3 = 0, bd_4 = 0, bd_5 = 0, bd_6 = 0, bd_7 =/;"	v	typeref:typename:int
+bd_6	SDI Cafe/dinner.c	/^int h, i, total_bill, plates, bd_1 = 0, bd_2 = 0, bd_3 = 0, bd_4 = 0, bd_5 = 0, bd_6 = 0, bd_7 =/;"	v	typeref:typename:int
+bd_7	SDI Cafe/dinner.c	/^int h, i, total_bill, plates, bd_1 = 0, bd_2 = 0, bd_3 = 0, bd_4 = 0, bd_5 = 0, bd_6 = 0, bd_7 =/;"	v	typeref:typename:int
+bill1	SDI Cafe/breakfast.c	/^int a, b, total_bill, plates, bill1 = 0, bill2 = 0, bill3 = 0, bill4 = 0, bill5 = 0, bill6 = 0, /;"	v	typeref:typename:int
+bill2	SDI Cafe/breakfast.c	/^int a, b, total_bill, plates, bill1 = 0, bill2 = 0, bill3 = 0, bill4 = 0, bill5 = 0, bill6 = 0, /;"	v	typeref:typename:int
+bill3	SDI Cafe/breakfast.c	/^int a, b, total_bill, plates, bill1 = 0, bill2 = 0, bill3 = 0, bill4 = 0, bill5 = 0, bill6 = 0, /;"	v	typeref:typename:int
+bill4	SDI Cafe/breakfast.c	/^int a, b, total_bill, plates, bill1 = 0, bill2 = 0, bill3 = 0, bill4 = 0, bill5 = 0, bill6 = 0, /;"	v	typeref:typename:int
+bill5	SDI Cafe/breakfast.c	/^int a, b, total_bill, plates, bill1 = 0, bill2 = 0, bill3 = 0, bill4 = 0, bill5 = 0, bill6 = 0, /;"	v	typeref:typename:int
+bill6	SDI Cafe/breakfast.c	/^int a, b, total_bill, plates, bill1 = 0, bill2 = 0, bill3 = 0, bill4 = 0, bill5 = 0, bill6 = 0, /;"	v	typeref:typename:int
+bill7	SDI Cafe/breakfast.c	/^int a, b, total_bill, plates, bill1 = 0, bill2 = 0, bill3 = 0, bill4 = 0, bill5 = 0, bill6 = 0, /;"	v	typeref:typename:int
+breakfast	SDI Cafe/breakfast.c	/^int breakfast()$/;"	f	typeref:typename:int
+chakuli_sabzi	SDI Cafe/breakfast.c	/^int Tea = 6, Coffee = 10, idli_sambar = 25, upma_sabzi = 20, chakuli_sabzi= 20, paratha_sabzi = /;"	v	typeref:typename:int
+chicken_pakoda	SDI Cafe/snacks.c	/^int tea = 6, coffee = 10, samosa = 5, chicken_pakoda = 60, fritters= 30, icecream = 40;$/;"	v	typeref:typename:int
+chilli_Chicken	SDI Cafe/dinner.c	/^int Roti = 4, Chicken_kassa = 110, Chicken_Afgani = 150, Egg_curry = 70, chilli_Chicken = 120, N/;"	v	typeref:typename:int
+clean	Logic Of ATM/Makefile	/^clean:$/;"	t
+clean	Makefile	/^all clean:$/;"	t
+coffee	SDI Cafe/snacks.c	/^int tea = 6, coffee = 10, samosa = 5, chicken_pakoda = 60, fritters= 30, icecream = 40;$/;"	v	typeref:typename:int
+d	SDI Cafe/lunch.c	/^int d, e, total_bill, plates, b1 = 0, b2 = 0, b3 = 0, b4 = 0, b5 = 0, b6 = 0, b7 = 0;$/;"	v	typeref:typename:int
+dinner	SDI Cafe/dinner.c	/^int dinner()$/;"	f	typeref:typename:int
+display	Student record struct/grade.c	/^void display(struct Student stu[], int n)$/;"	f	typeref:typename:void
+e	SDI Cafe/lunch.c	/^int d, e, total_bill, plates, b1 = 0, b2 = 0, b3 = 0, b4 = 0, b5 = 0, b6 = 0, b7 = 0;$/;"	v	typeref:typename:int
+f	SDI Cafe/snacks.c	/^int f, g, total_bill, plates, b_1 = 0, b_2 = 0, b_3 = 0, b_4 = 0, b_5 = 0, b_6 = 0, b_7 = 0;$/;"	v	typeref:typename:int
+fritters	SDI Cafe/snacks.c	/^int tea = 6, coffee = 10, samosa = 5, chicken_pakoda = 60, fritters= 30, icecream = 40;$/;"	v	typeref:typename:int
+g	SDI Cafe/snacks.c	/^int f, g, total_bill, plates, b_1 = 0, b_2 = 0, b_3 = 0, b_4 = 0, b_5 = 0, b_6 = 0, b_7 = 0;$/;"	v	typeref:typename:int
+gender	Student record struct/grade.c	/^    char gender[30];$/;"	m	struct:Student	typeref:typename:char[30]	file:
+grade	Student record struct/grade.c	/^    char grade[30];$/;"	m	struct:Grade	typeref:typename:char[30]	file:
+h	SDI Cafe/dinner.c	/^int h, i, total_bill, plates, bd_1 = 0, bd_2 = 0, bd_3 = 0, bd_4 = 0, bd_5 = 0, bd_6 = 0, bd_7 =/;"	v	typeref:typename:int
+i	SDI Cafe/dinner.c	/^int h, i, total_bill, plates, bd_1 = 0, bd_2 = 0, bd_3 = 0, bd_4 = 0, bd_5 = 0, bd_6 = 0, bd_7 =/;"	v	typeref:typename:int
+icecream	SDI Cafe/snacks.c	/^int tea = 6, coffee = 10, samosa = 5, chicken_pakoda = 60, fritters= 30, icecream = 40;$/;"	v	typeref:typename:int
+idli_sambar	SDI Cafe/breakfast.c	/^int Tea = 6, Coffee = 10, idli_sambar = 25, upma_sabzi = 20, chakuli_sabzi= 20, paratha_sabzi = /;"	v	typeref:typename:int
+lunch	SDI Cafe/lunch.c	/^int lunch()$/;"	f	typeref:typename:int
+main	GPA/gpa.c	/^int main(){$/;"	f	typeref:typename:int
+main	Grade/Brati.c	/^int main()$/;"	f	typeref:typename:int
+main	Logic Of ATM/Atm.c	/^int main()$/;"	f	typeref:typename:int
+main	SDI Cafe/menu.c	/^int main()$/;"	f	typeref:typename:int
+main	Student record struct/grade.c	/^int main()$/;"	f	typeref:typename:int
+paratha_sabzi	SDI Cafe/breakfast.c	/^int Tea = 6, Coffee = 10, idli_sambar = 25, upma_sabzi = 20, chakuli_sabzi= 20, paratha_sabzi = /;"	v	typeref:typename:int
+plates	SDI Cafe/breakfast.c	/^int a, b, total_bill, plates, bill1 = 0, bill2 = 0, bill3 = 0, bill4 = 0, bill5 = 0, bill6 = 0, /;"	v	typeref:typename:int
+plates	SDI Cafe/dinner.c	/^int h, i, total_bill, plates, bd_1 = 0, bd_2 = 0, bd_3 = 0, bd_4 = 0, bd_5 = 0, bd_6 = 0, bd_7 =/;"	v	typeref:typename:int
+plates	SDI Cafe/lunch.c	/^int d, e, total_bill, plates, b1 = 0, b2 = 0, b3 = 0, b4 = 0, b5 = 0, b6 = 0, b7 = 0;$/;"	v	typeref:typename:int
+plates	SDI Cafe/snacks.c	/^int f, g, total_bill, plates, b_1 = 0, b_2 = 0, b_3 = 0, b_4 = 0, b_5 = 0, b_6 = 0, b_7 = 0;$/;"	v	typeref:typename:int
+samosa	SDI Cafe/snacks.c	/^int tea = 6, coffee = 10, samosa = 5, chicken_pakoda = 60, fritters= 30, icecream = 40;$/;"	v	typeref:typename:int
+snacks	SDI Cafe/snacks.c	/^int snacks()$/;"	f	typeref:typename:int
+student_ph	Student record struct/grade.c	/^    long int student_ph;$/;"	m	struct:Student	typeref:typename:long int	file:
+tea	SDI Cafe/snacks.c	/^int tea = 6, coffee = 10, samosa = 5, chicken_pakoda = 60, fritters= 30, icecream = 40;$/;"	v	typeref:typename:int
+total_bill	SDI Cafe/breakfast.c	/^int a, b, total_bill, plates, bill1 = 0, bill2 = 0, bill3 = 0, bill4 = 0, bill5 = 0, bill6 = 0, /;"	v	typeref:typename:int
+total_bill	SDI Cafe/dinner.c	/^int h, i, total_bill, plates, bd_1 = 0, bd_2 = 0, bd_3 = 0, bd_4 = 0, bd_5 = 0, bd_6 = 0, bd_7 =/;"	v	typeref:typename:int
+total_bill	SDI Cafe/lunch.c	/^int d, e, total_bill, plates, b1 = 0, b2 = 0, b3 = 0, b4 = 0, b5 = 0, b6 = 0, b7 = 0;$/;"	v	typeref:typename:int
+total_bill	SDI Cafe/snacks.c	/^int f, g, total_bill, plates, b_1 = 0, b_2 = 0, b_3 = 0, b_4 = 0, b_5 = 0, b_6 = 0, b_7 = 0;$/;"	v	typeref:typename:int
+upma_sabzi	SDI Cafe/breakfast.c	/^int Tea = 6, Coffee = 10, idli_sambar = 25, upma_sabzi = 20, chakuli_sabzi= 20, paratha_sabzi = /;"	v	typeref:typename:int

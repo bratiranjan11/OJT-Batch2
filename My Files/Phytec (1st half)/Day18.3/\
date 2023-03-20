@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <fcntl.h>
+
+
+int main()
+{
+	int fd;
+	fd=open("hello.txt",O_RDONLY);
+	if(fd == -1);
+	{
+		printf("Error opening file("with printf func")\n");
+		perror("No such file("with perror")\n");
+	}
+}

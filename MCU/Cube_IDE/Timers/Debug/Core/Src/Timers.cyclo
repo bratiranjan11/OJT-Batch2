@@ -1,0 +1,5 @@
+Timers.c:66:5:main	1
+Timers.c:110:6:SystemClock_Config	3
+Timers.c:152:13:MX_TIM6_Init	3
+Timers.c:190:13:MX_GPIO_Init	1
+Timers.c:238:6:Error_Handler	1

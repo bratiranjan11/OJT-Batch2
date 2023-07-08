@@ -1,0 +1,14 @@
+main.c:82:6:Delay	2
+main.c:89:6:Display_Temp	1
+main.c:104:6:Display_Rh	1
+main.c:120:8:I2C1_init	1
+main.c:145:8:I2C1_burstWrite	8
+main.c:171:8:I2C1_burstRead	12
+main.c:213:8:Get_Time	1
+main.c:227:8:delay	3
+main.c:235:7:BCDtoDecimal	1
+main.c:246:5:main	2
+main.c:399:6:SystemClock_Config	3
+main.c:447:13:MX_TIM6_Init	3
+main.c:485:13:MX_GPIO_Init	1
+main.c:540:6:Error_Handler	1

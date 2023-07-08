@@ -1,0 +1,5 @@
+lcd_i.c:13:6:print	9
+lcd_i.c:91:6:lcd_cmd	1
+lcd_i.c:101:6:lcd_data	1
+lcd_i.c:113:6:lcd_init	1
+lcd_i.c:121:6:lcd_display	2

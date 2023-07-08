@@ -1,0 +1,6 @@
+core_cm4.h:2064:26:ITM_SendChar	4
+LCD_KEYPADInterfacing.c:64:5:main	17
+LCD_KEYPADInterfacing.c:236:27:_write	2
+LCD_KEYPADInterfacing.c:248:6:SystemClock_Config	3
+LCD_KEYPADInterfacing.c:296:13:MX_GPIO_Init	1
+LCD_KEYPADInterfacing.c:379:6:Error_Handler	1

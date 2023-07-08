@@ -1,0 +1,7 @@
+lcd.c:17:6:LCD_string	2
+lcd.c:26:6:LCD_init	1
+lcd.c:44:6:PORTS_init	1
+lcd.c:58:6:LCD_nibble_write	2
+lcd.c:73:6:LCD_command	2
+lcd.c:83:6:LCD_data	1
+lcd.c:90:6:delay	3

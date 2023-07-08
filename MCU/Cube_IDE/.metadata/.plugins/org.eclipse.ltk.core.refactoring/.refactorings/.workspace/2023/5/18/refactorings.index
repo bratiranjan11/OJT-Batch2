@@ -1,0 +1,7 @@
+1682949172242	Delete resource 'welcome/DHT11_Interface'
+1682949418579	Delete resource 'DHT11_Interface'
+1683023958187	Delete resource 'SPI_RFID/Core/Src/lcd.c'
+1683023964715	Delete resource 'SPI_RFID/Core/Inc/lcd.h'
+1683024607162	Delete resource 'SPI_RFID'
+1683024814786	Delete resource 'SPI_RFIDRegister/Core/Src/core.c'
+1683024817780	Delete resource 'SPI_RFIDRegister/Core/Src/debug.c'

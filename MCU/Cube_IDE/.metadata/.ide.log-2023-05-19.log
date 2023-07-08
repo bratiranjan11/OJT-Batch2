@@ -1,0 +1,24 @@
+2023-05-19 10:08:06,213 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-05-19 10:08:06,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-05-19 10:08:06,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-05-19 10:08:06,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-05-19 10:08:06,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-05-19 10:08:06,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-05-19 10:08:06,271 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-05-19 10:08:06,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-05-19 10:08:06,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-05-19 10:08:06,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-05-19 10:08:06,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-05-19 10:08:06,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-05-19 10:08:06,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-05-19 10:08:06,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-05-19 10:08:06,272 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-05-19 10:08:06,301 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-05-19 11:23:45,052 [INFO] Activator:176 - 
+
+
+2023-05-19 11:23:45,053 [INFO] Activator:177 - !SESSION log4j initialized
+2023-05-19 11:23:49,684 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-05-19 11:24:11,399 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-05-19 11:24:11,400 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-05-19 11:24:11,400 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
